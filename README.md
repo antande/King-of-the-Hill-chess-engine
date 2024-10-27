@@ -1,4 +1,4 @@
-# King of the Hill chess Bot
+# King of the Hill chess engine
 ## Symbolic AI project summer semester 2023 group O
 
 ---
